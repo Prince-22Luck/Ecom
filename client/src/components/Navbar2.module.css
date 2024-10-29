@@ -1,0 +1,115 @@
+
+*{
+    box-sizing: border-box;
+  }
+  .nav{
+    border-bottom: 2px solid white;
+    width: 100%;
+    height: 70px;
+    position:relative ;
+    display: flex;
+    background-image: linear-gradient(to top, rgb(172, 167, 167), black);
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  .list{
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    gap: 35px;
+    font-size: large;
+    font-weight: 600;
+    color: white;
+    cursor: pointer;
+  }
+  .list_element{
+    text-decoration: none;
+  }
+  li a{
+    text-decoration: none;
+  }
+
+  .list_element:hover{
+    color:rgb(228, 191, 121);
+    text-shadow: 1px 1px 2px black, 0 0 25px orange, 0 0 5px darkblue;
+  }
+  .logoinfo{
+    display: flex;
+  }
+  .logoimg{
+    margin-top: 8px;
+    width: 50px;
+    margin-right: 50px;
+  }
+  .logoname{
+    margin-top: 10px;
+    color: white;
+    font-size: 32px;
+    font-weight: 800;
+  }
+  img{
+    width: 100%;
+  }
+  .search{
+    margin-top: 15px;
+    text-align: center;
+  }
+  input{
+    height: 40px;
+  }
+  .button{
+    min-width: 120px;
+    max-height: 50px;
+    margin-top: 8px;
+    text-decoration: none;
+  
+    position: relative;
+    right: 0;
+    cursor: pointer;
+  
+    padding: 12px 17px;
+    border-color: white;
+    border-radius: 24px;
+  
+    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.1);
+    background: radial-gradient(
+      ellipse at bottom,
+      rgba(71, 81, 92, 1) 0%,
+      rgba(11, 21, 30, 1) 45%
+    );
+  
+    color: rgb(255, 255, 255, 0.66);
+  }
+  
+  .button:hover {
+    color:rgb(228, 191, 121);
+    border-color:rgb(228, 191, 121) ;
+  }
+
+  #dropdownMenuButton{
+    font-size: large;
+    font-weight: 600;
+    color: white;
+    cursor: pointer;
+    border-style: none;
+
+  }
+  #dropdownMenuButton:hover{
+    color:rgb(228, 191, 121);
+    text-shadow: 1px 1px 2px black, 0 0 25px orange, 0 0 5px darkblue;
+
+  }
+  #round{
+  background-image: linear-gradient(to right bottom,black,white);
+  border: 0px solid black;
+  box-shadow: 1px 1px 2px black, 0 0 10px orange, 0 0 5px darkblue;;
+  }
+  #round a{
+    font-size: larger;
+    color: white;
+    font-weight: 500;
+  }
+  #round a:hover{
+    background-color: rgb(244, 183, 69);
+  }

@@ -1,0 +1,119 @@
+.container{
+    background-color: rgb(42, 42, 68);
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+}
+
+.side{
+    border: 2px solid white;
+    display: flex;
+    flex-direction: column;
+    width: 15%;
+}
+
+.rightSide{
+    width: 85%;
+    display: flex;
+    flex-direction: column;
+}
+.box{
+    border: 2px solid rgb(227, 162, 227);
+    box-shadow: 2px -15px 10px -20px rgba(255, 252, 252, 0.45),
+    15px 0px 20px -20px rgba(255, 252, 252, 0.45),
+    0px 15px 20px -20px rgba(255, 252, 252, 0.45),
+    -15px 0px 20px -20px rgba(255, 252, 252, 0.45);
+    height: 100px;
+    border-radius: 20px;
+}
+.h2{
+    color: white;
+    margin-top: 12px;
+
+}
+.para{
+    color: white;
+    padding: 12px;
+}
+.valueLayout{
+    padding: 10px 10px 10px 35px;
+    width: 100%;
+    height: 20%;
+    display: grid;
+    gap: 16px;
+    grid-template-columns: 800px auto auto;
+}
+
+.name{
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    margin-left: 55px;
+}
+.graph{
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 12px;
+    flex: 1;
+    display: grid;
+    grid-template-columns:  800px auto;
+    gap: 12px;
+}
+
+.graph1{
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 12px;
+
+    flex: 1;
+    display: grid;
+    grid-template-columns:  auto auto auto;
+    gap: 12px;
+}
+
+.h2{
+    color: white;
+    text-align: center;
+}
+.graphContainer{
+    box-shadow: 2px -15px 10px -20px rgba(255, 252, 252, 0.45),
+    15px 0px 20px -20px rgba(255, 252, 252, 0.45),
+    0px 15px 20px -20px rgba(255, 252, 252, 0.45),
+    -15px 0px 20px -20px rgba(255, 252, 252, 0.45);
+    margin-top: 12px;
+    margin-left: 6px;
+    margin-right: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 24px;
+    background-color: rgb(72, 72, 116);
+
+}
+
+.unorder{
+    list-style: none;
+    margin-left: -33px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 116%;
+}
+.list{
+    color: white;
+    font-size: x-large;
+    padding-top:12px ;
+    padding-bottom: 12px;
+    font-weight: 500;
+    width: 100%;
+    border-bottom:1px dotted white;
+}
+.list:hover{
+    background-color: white;
+    color:black;
+}
+
+
