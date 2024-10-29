@@ -1,0 +1,141 @@
+Month,Part_Name,Category,Units_Sold,Revenue
+
+01,CPU,Core Components,150,30000
+01,GPU,Core Components,100,50000
+01,RAM,Core Components,200,20000
+01,SSD,Core Components,180,18000
+01,Motherboard,Core Components,120,24000
+01,Power Supply,Core Components,160,16000
+
+02,CPU,Core Components,140,28000
+02,GPU,Core Components,110,55000
+02,RAM,Core Components,220,22000
+02,SSD,Core Components,170,17000
+02,Motherboard,Core Components,130,26000
+02,Power Supply,Core Components,150,15000
+
+03,CPU,Core Components,160,32000
+03,GPU,Core Components,120,60000
+03,RAM,Core Components,250,25000
+03,SSD,Core Components,200,20000
+03,Motherboard,Core Components,140,28000
+03,Power Supply,Core Components,180,18000
+
+04,CPU,Core Components,170,34000
+04,GPU,Core Components,130,65000
+04,RAM,Core Components,300,30000
+04,SSD,Core Components,250,25000
+04,Motherboard,Core Components,160,32000
+04,Power Supply,Core Components,200,20000
+
+05,CPU,Core Components,180,36000
+05,GPU,Core Components,140,70000
+05,RAM,Core Components,320,32000
+05,SSD,Core Components,260,26000
+05,Motherboard,Core Components,170,34000
+05,Power Supply,Core Components,220,22000
+
+01,Keyboard,Input / Output Devices,250,5000
+01,Mouse,Input / Output Devices,300,6000
+01,Monitor,Input / Output Devices,100,40000
+01,Webcam,Input / Output Devices,150,15000
+01,Headset,Input / Output Devices,200,20000
+01,Printer,Input / Output Devices,60,18000
+
+01,Wireless Mouse,Computer Accessories,180,3600
+01,Mouse Pad,Computer Accessories,200,200
+01,Webcam Stand,Computer Accessories,75,750
+01,USB Flash Drive,Computer Accessories,300,3000
+01,HDMI Cable,Computer Accessories,150,1500
+01,Wireless Charger,Computer Accessories,100,2000
+
+01,RAM 32GB,Expansion Components,120,24000
+01,Graphics Card,Expansion Components,40,400000
+01,Power Supply,Expansion Components,80,32000
+01,SSD 1TB,Expansion Components,60,12000
+01,External GPU,Expansion Components,50,5000
+01,Network Card,Expansion Components,70,7000
+
+02,Keyboard,Input / Output Devices,260,5200
+02,Mouse,Input / Output Devices,320,6400
+02,Monitor,Input / Output Devices,110,44000
+02,Webcam,Input / Output Devices,100,10000
+02,Headset,Input / Output Devices,130,26000
+02,Printer,Input / Output Devices,40,12000
+
+02,Wireless Mouse,Computer Accessories,200,2000
+02,Mouse Pad,Computer Accessories,150,15000
+02,Webcam Stand,Computer Accessories,90,900
+02,USB Flash Drive,Computer Accessories,300,300
+02,HDMI Cable,Computer Accessories,150,3000
+02,Wireless Charger,Computer Accessories,80,1600
+
+02,RAM 32GB,Expansion Components,50,50000
+02,Graphics Card,Expansion Components,30,300000
+02,Power Supply,Expansion Components,40,80000
+02,SSD 1TB,Expansion Components,60,60000
+02,External GPU,Expansion Components,20,200000
+02,Network Card,Expansion Components,70,7000
+
+03,Keyboard,Input / Output Devices,270,5400
+03,Mouse,Input / Output Devices,320,6400
+03,Monitor,Input / Output Devices,120,48000
+03,Webcam,Input / Output Devices,160,16000
+03,Headset,Input / Output Devices,210,21000
+03,Printer,Input / Output Devices,70,21000
+
+03,Wireless Mouse,Computer Accessories,200,4000
+03,Mouse Pad,Computer Accessories,220,220
+03,Webcam Stand,Computer Accessories,85,850
+03,USB Flash Drive,Computer Accessories,320,3200
+03,HDMI Cable,Computer Accessories,160,1600
+03,Wireless Charger,Computer Accessories,120,2400
+
+03,RAM 32GB,Expansion Components,90,36000
+03,Graphics Card,Expansion Components,50,500000
+03,Power Supply,Expansion Components,70,14000
+03,SSD 1TB,Expansion Components,130,26000
+03,External GPU,Expansion Components,60,6000
+03,Network Card,Expansion Components,80,8000
+
+04,Keyboard,Input / Output Devices,280,5600
+04,Mouse,Input / Output Devices,350,7000
+04,Monitor,Input / Output Devices,130,52000
+04,Webcam,Input / Output Devices,110,11000
+04,Headset,Input / Output Devices,150,30000
+04,Printer,Input / Output Devices,50,15000
+
+04,Wireless Mouse,Computer Accessories,220,2200
+04,Mouse Pad,Computer Accessories,170,17000
+04,Webcam Stand,Computer Accessories,100,1000
+04,USB Flash Drive,Computer Accessories,320,320
+04,HDMI Cable,Computer Accessories,170,3400
+04,Wireless Charger,Computer Accessories,90,1800
+
+04,RAM 32GB,Expansion Components,60,60000
+04,Graphics Card,Expansion Components,40,400000
+04,Power Supply,Expansion Components,50,100000
+04,SSD 1TB,Expansion Components,70,70000
+04,External GPU,Expansion Components,30,300000
+04,Network Card,Expansion Components,80,8000
+
+05,Keyboard,Input / Output Devices,290,5800
+05,Mouse,Input / Output Devices,350,7000
+05,Monitor,Input / Output Devices,140,56000
+05,Webcam,Input / Output Devices,170,17000
+05,Headset,Input / Output Devices,220,22000
+05,Printer,Input / Output Devices,80,24000
+
+05,Wireless Mouse,Computer Accessories,230,4600
+05,Mouse Pad,Computer Accessories,240,240
+05,Webcam Stand,Computer Accessories,95,950
+05,USB Flash Drive,Computer Accessories,340,3400
+05,HDMI Cable,Computer Accessories,170,1700
+05,Wireless Charger,Computer Accessories,130,2600
+
+05,RAM 32GB,Expansion Components,100,40000
+05,Graphics Card,Expansion Components,60,600000
+05,Power Supply,Expansion Components,80,16000
+05,SSD 1TB,Expansion Components,140,28000
+05,External GPU,Expansion Components,70,7000
+05,Network Card,Expansion Components,90,9000

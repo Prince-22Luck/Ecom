@@ -1,0 +1,25 @@
+name,price,description,category,image_path
+CPU,30000,Core CPU component - high-performance processor,Core Components,../assets/cpu11.jpeg
+GPU,50000,Graphics Processing Unit - essential for gaming and graphics rendering,Core Components,../assets/external_gpu.jpeg
+RAM,20000,Random Access Memory - enhances system performance,Core Components,../assets/ram.jpeg
+SSD,18000,Solid State Drive - fast storage solution,Core Components,../assets/ssd.jpeg
+Motherboard,24000,Main circuit board - crucial for system operation,Core Components,../assets/motherboard.jpeg
+Power Supply,16000,Provides power to your components,Core Components,../assets/power_supply.jpeg
+Keyboard,5000,Standard keyboard - reliable and durable,Input / Output Devices,../assets/keyboard.jpeg
+Mouse,6000,Optical mouse - high precision,Input / Output Devices,../assets/mouse.jpeg
+Monitor,40000,Full HD monitor - crisp display,Input / Output Devices,../assets/monitor.jpeg
+Webcam,15000,High-definition webcam for video conferencing,Input / Output Devices,../assets/webcam.jpeg
+Headset,20000,Comfortable headset with excellent audio quality,Input / Output Devices,../assets/headset.jpeg
+Printer,18000,High-quality printer for office use,Input / Output Devices,../assets/printer.jpeg
+Wireless Mouse,3600,Wireless optical mouse,Computer Accessories,../assets/wireless_mouse.jpeg
+Mouse Pad,200,Smooth surface mouse pad,Computer Accessories,../assets/mouse_pad.jpeg
+Webcam Stand,750,Adjustable webcam stand,Computer Accessories,../assets/webcam_stand.jpeg
+USB Flash Drive,3000,Portable USB storage,Computer Accessories,../assets/usb_flash_drive.jpeg
+HDMI Cable,1500,High-definition multimedia cable,Computer Accessories,../assets/hdmi_cable.jpeg
+Wireless Charger,2000,Wireless charger for multiple devices,Computer Accessories,../assets/wireless_charger.jpeg
+RAM 32GB,24000,High-performance 32GB RAM,Expansion Components,../assets/ram_32gb.jpeg
+Graphics Card,400000,Powerful graphics card for gaming and rendering,Expansion Components,../assets/graphics_card.jpeg
+Power Supply,32000,High-wattage power supply for advanced systems,Expansion Components,../assets/power_supply_expansion.jpeg
+SSD 1TB,12000,1TB solid-state drive for large storage,Expansion Components,../assets/ssd_1tb.jpeg
+External GPU,5000,External GPU for enhanced graphics performance,Expansion Components,../assets/external_gpu_expansion.jpeg
+Network Card,7000,Network card for improved connectivity,Expansion Components,../assets/network_card.jpeg
